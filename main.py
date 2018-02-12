@@ -1,2 +1,3 @@
-print ("Hello World")
+input (n)
+print ("Hello World" + n)
 Print ("\n")
